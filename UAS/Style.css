@@ -41,10 +41,10 @@ footer .container{
 	margin-top: 30px;/*mengatur margin atas pada footer*/
 	color: white;/*mengatur warna huruf pada footer*/
 	text-align: center;/*mengatur posisi huruf pada footer*/
-	padding: 20px;/*mengatur padding pada footer*/
 }
 
 footer .container .row .col-md-12{
+	margin-top: 30px;/*mengatur margin atas pada kolom footer*/
 	text-align: center;/*mengatur posisi huruf pada kolom footer*/
 	padding-top: 10px;/*mengatur padding atas pada kolom footer*/
 }
