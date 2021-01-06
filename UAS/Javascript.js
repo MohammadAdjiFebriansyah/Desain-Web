@@ -3,4 +3,4 @@ $(document).ready(function(){
 		$(this).find(".dropdown-menu").slideToggle("normal");/*maka dropdown menu akan slide kebawah dengan kecepatan normal*/
 	});
 });
-/*Untuk membuat animasi scroll slide ke bawah pada navbar dropdown*/
+/*Untuk membuat animasi scroll slide ke bawah pada navbar dropdown*/ 
